@@ -6,3 +6,6 @@
 为了快速学习pomelo + cocos creator准备项目，也欢迎业余时间多的朋友加入，程序，美术，策划均可。
 
 文件目录描述：
+design.txt: 文档设计文件。
+server: pomelo服务器。
+client: cocos creator项目目录。
