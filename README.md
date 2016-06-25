@@ -1,11 +1,1 @@
-
----------------------------
-名字：蜀汉曹魏之战（多人攻守战）
----------------------------
-
-为了快速学习pomelo + cocos creator准备项目，也欢迎业余时间多的朋友加入，程序，美术，策划均可。
-
-文件目录描述：
-design.txt: 文档设计文件。
-server: pomelo服务器。
-client: cocos creator项目目录。
+<div><div><br /></div><div>---------------------------</div><div>名字：蜀汉曹魏之战（多人攻守战）</div><div>---------------------------</div><div><br /></div><div>为了快速学习pomelo + cocos creator准备项目，也欢迎业余时间多的朋友加入，程序，美术，策划均可。</div><div><br /></div><div>文件目录描述：</div><div>design.txt: 文档设计文件。</div><div>server: pomelo服务器。</div><div>client: cocos creator项目目录。</div></div><div><br /></div>
